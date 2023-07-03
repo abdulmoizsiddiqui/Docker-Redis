@@ -6,3 +6,4 @@ RUN apk add --update redis
 
 # Setup the startup command
 CMD ["redis-server"]
+#
